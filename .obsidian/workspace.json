@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transformer/大模型RL/强化学习.md",
+                "file": "网络/clash/clash混合端口是什么意思？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "强化学习"
+              "title": "clash混合端口是什么意思？"
             }
           }
         ]
@@ -174,9 +174,19 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "a56d563844377bf2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -196,10 +207,15 @@
   },
   "active": "88d6ac42d4f1b021",
   "lastOpenFiles": [
+    "网络/clash/clash混合端口是什么意思？.md",
+    "网络/clash",
+    "transformer/flash attention 1,2,3,4 的变化.md",
+    "网络",
+    "transformer/大模型RL/DPO应该是一种监督学习算法，但是为什么常常被归类为强化学习？.md",
+    "transformer/大模型RL/DPO.md",
+    "transformer/大模型RL/强化学习.md",
     "README.md",
     "数学/什么是KL散度.md",
-    "transformer/大模型RL/强化学习.md",
-    "transformer/大模型RL/DPO.md",
     "数学/机器学习里的似然到底是什么意思😧？.md",
     "数学",
     "transformer/大模型微调.md",
@@ -213,8 +229,6 @@
     "plugins/claudian/styles.css",
     "plugins/claudian/manifest.json",
     "plugins/claudian/main.js",
-    "plugins/claudian",
-    "plugins",
-    "transformer"
+    "plugins/claudian"
   ]
 }
