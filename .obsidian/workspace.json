@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络/clash/clash混合端口是什么意思？.md",
+                "file": "跳槽/# 字节跳动杭州社招岗位汇总.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clash混合端口是什么意思？"
+              "title": "# 字节跳动杭州社招岗位汇总"
             }
           }
         ]
@@ -207,7 +207,11 @@
   },
   "active": "88d6ac42d4f1b021",
   "lastOpenFiles": [
+    "网络/iptables/ChatGPT-ip_rule_vs_ip_route.md",
+    "跳槽/# 字节跳动杭州社招岗位汇总.md",
+    "跳槽",
     "网络/clash/clash混合端口是什么意思？.md",
+    "网络/iptables",
     "网络/clash",
     "transformer/flash attention 1,2,3,4 的变化.md",
     "网络",
@@ -227,8 +231,6 @@
     "模型",
     "transformer/什么是transformer？.md",
     "plugins/claudian/styles.css",
-    "plugins/claudian/manifest.json",
-    "plugins/claudian/main.js",
-    "plugins/claudian"
+    "plugins/claudian/manifest.json"
   ]
 }
