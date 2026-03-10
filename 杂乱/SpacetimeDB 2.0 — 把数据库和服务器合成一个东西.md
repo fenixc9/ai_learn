@@ -1,26 +1,30 @@
-> 来源：[@sitinme](https://x.com/sitinme) · 2026-03-07
+> 来源：[sitin (@sitinme)](https://x.com/sitinme/status/2030210093128798482)
+> 时间：Sat Mar 07 09:13
+> 👍 639  🔁 120  💬 28
 
-## SpacetimeDB 2.0
+SpacetimeDB 2.0 — 号称比传统数据库快 1000 倍的实时数据库
 
-号称比传统数据库快 **1000 倍**的实时数据库，GitHub Trending + Hacker News 同时爆。
+GitHub Trending + Hacker News 同时爆了。
 
-### 核心设计
+SpacetimeDB 不是普通数据库，它把数据库和服务器合成了一个东西：
+• 客户端直接连数据库，没有中间的 API 服务器
+• 数据变化实时推送到所有客户端
+• 用 Rust 写的，性能拉满
 
-- **客户端直连数据库**，没有中间的 API 服务器层
-- 数据变化**实时推送**到所有客户端（类似 websocket，但不用自己写）
-- 用 **Rust** 写，性能极强
-- 把数据库逻辑（SQL/索引）和服务器逻辑（业务代码）合并成一个运行时
+最骚的演示：他们用 SpacetimeDB 做了视频通话——所有数据通过数据库实时同步传输。
 
-### 最骚的演示
+适用场景：
 
-用 SpacetimeDB 做了一个大规模多人游戏后端，数千玩家实时同步，延迟极低。
+• 🎮 多人游戏（取代传统游戏服务器）
+• 💬 实时协作应用
+• 📊 实时数据看板
+• 🤖 AI Agent 之间的实时通信
 
-### 适合场景
+Hacker News 上有人质疑 benchmark 的公平性（用了不同的客户端和协议），但架构思路确实新颖——"如果数据库本身就是服务器呢？"
 
-- 实时多人游戏
-- 协作应用（类 Notion/Figma 实时同步）
-- 任何需要"数据变化立刻推给所有客户端"的场景
+开源地址：https://t.co/DLHzK0SffH 
 
-### 链接
+来源：Hacker News, YouTube
 
-- GitHub: https://github.com/clockworklabs/SpacetimeDB
+![](https://pbs.twimg.com/media/HCsd3BkaUAAoVbz.png)
+![](https://pbs.twimg.com/media/HCsd3BcaUAE33Dv.jpg)

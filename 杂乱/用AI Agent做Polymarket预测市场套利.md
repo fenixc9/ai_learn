@@ -1,26 +1,18 @@
-> 来源：[@pritipatelfgoo](https://x.com/pritipatelfgoo) · 2026-03-07
-> 👍 1758 转发 381
+> 来源：[套利豪仔 (@pritipatelfgoo)](https://x.com/pritipatelfgoo/status/2030162734856503532)
+> 时间：Sat Mar 07 06:04
+> 👍 1758  🔁 381  💬 87
 
-## 案例：AI Agent 做 Polymarket 量化套利
+一个哥们分享给我，他朋友从量化基金辞职后，给他发了2页图纸。
 
-### 故事背景
+他说：“这些是我用来在Polymarket赚钱的关键公式。一年能赚40万美元。如果你能用好它们，你就会发财。”
+朋友当时不信。
 
-一个从量化基金辞职的人，分享了他做 Polymarket 套利的 2 页手写公式，声称年赚 **40 万美元**。
+朋友把这两页直接丢进OpenClaw，然后发了一个提示：“给Polymarket建个机器人。”接着就出门了。
 
-### 复现过程
+回来一看，AI代理已经在Telegram上发消息说：“已经准备好运行了。
+”现在这个机器人已经连续4天，每天稳定给他赚150美元。
 
-1. 把 2 页公式图纸丢进 **OpenClaw（Claude）**
-2. 提示词：`"给Polymarket建个机器人"`
-3. AI 生成了可运行的 Agent，通过 **Telegram** 发送状态通知
-4. 结果：连续 4 天，**每天稳定盈利 150 美元**
+我有点不信，我把这两份文档都附上了。你们也丢进自己的AI代理试试，有人能看懂吗？
 
-### 核心思路
-
-- Polymarket 是预测市场（押注某事件是否发生）
-- 套利点在于：不同市场对同一事件的定价存在偏差
-- 量化公式 → LLM 理解逻辑 → Agent 自动执行
-
-### 启发
-
-- LLM 可以直接"读懂"量化逻辑并生成可运行代码
-- 预测市场 + AI Agent 是一个值得深入研究的方向
+![](https://pbs.twimg.com/media/HCyV-8PaUAUJw5I.jpg)
+![](https://pbs.twimg.com/media/HCyV-89aUAQGk5s.jpg)

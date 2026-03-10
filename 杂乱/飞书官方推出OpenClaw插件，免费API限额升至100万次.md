@@ -1,17 +1,7 @@
-> 来源：[@landiantech](https://x.com/landiantech) 蓝点网 · 2026-03-06
+> 来源：[蓝点网 (@landiantech)](https://x.com/landiantech/status/2029822401538838820)
+> 时间：Fri Mar 06 07:32
+> 👍 1217  🔁 290  💬 27
 
-## 飞书 × OpenClaw 官方插件
+字节跳动飞书团队官方下场：推出 #OpenClaw AI 机器人官方版插件并将免费 API 限额从每月 1 万次调用直接升级到 100 万次调用。这个配额且不说个人用户，就是小型团队使用都是足够足够的，而且官方版插件或许也会比社区版插件提供更多功能。配置指南：https://t.co/i8uYOjFpcv https://t.co/yajArbwpXB
 
-字节跳动飞书团队官方下场，推出 **OpenClaw（Claude）AI 机器人官方版插件**。
-
-### 关键变化
-
-| 项目 | 社区版 | 官方版 |
-|------|--------|--------|
-| 免费 API 额度 | 1 万次/月 | **100 万次/月** |
-| 功能 | 社区维护 | 官方支持，预计更多功能 |
-
-### 意义
-
-- 100 万次/月的免费调用额度，对个人用户和小团队完全够用
-- 飞书作为企业协作工具，整合 Claude 后可直接在工作流中使用 AI
+![](https://pbs.twimg.com/media/HCtf0AkacAAycvd.jpg)
