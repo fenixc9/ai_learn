@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"81bdd33c8dec861d","x":-200,"y":160,"width":250,"height":60,"type":"text","text":"Maas网关"},
+		{"id":"1090abec29b05961","x":80,"y":0,"width":400,"height":400,"type":"file","file":"NVIDIA Dynamo.md"},
+		{"id":"3fb99a644539b049","x":-400,"y":-460,"width":400,"height":400,"type":"file","file":"大模型有价值的问答/maas平台网关设计.md"},
+		{"id":"fd456e0141fee702","x":-760,"y":60,"width":400,"height":400,"type":"file","file":"面试题/maas平台的网关怎么设计？.md"}
+	],
+	"edges":[
+		{"id":"102635a62949468c","fromNode":"3fb99a644539b049","fromSide":"right","toNode":"1090abec29b05961","toSide":"top"},
+		{"id":"8ba9fd1c414b259e","fromNode":"3fb99a644539b049","fromSide":"bottom","toNode":"fd456e0141fee702","toSide":"top"}
+	]
+}

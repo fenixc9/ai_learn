@@ -1,0 +1,19 @@
+{
+  "id": "conv-1773249983249-jjlk6nq0p",
+  "title": "修正并分段音轨转录稿",
+  "titleGenerationStatus": "success",
+  "createdAt": 1773249983258,
+  "updatedAt": 1773324871411,
+  "lastResponseAt": 1773324871411,
+  "sessionId": "d8e817e7-25a5-42f2-9625-df77db20cca3",
+  "sdkSessionId": "d8e817e7-25a5-42f2-9625-df77db20cca3",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3946,
+    "cacheReadInputTokens": 76140,
+    "contextWindow": 200000,
+    "contextTokens": 80088,
+    "percentage": 40
+  }
+}
