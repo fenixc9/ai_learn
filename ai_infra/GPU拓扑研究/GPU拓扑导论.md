@@ -1,0 +1,1 @@
+k8s原生GPU调度相当粗糙，k8s目前把这些设备视为同构，默认资源调度只看数量，不感知拓扑。NVIDIA 的 device plugin 默认分配 GPU 时不保证 NVLink 亲和性。可能分到跨 NVSwitch domain 的卡，导致通信带宽骤降。

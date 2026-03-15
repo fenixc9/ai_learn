@@ -11,17 +11,14 @@
             "id": "88d6ac42d4f1b021",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Maas网关.canvas",
-                "viewState": {
-                  "x": -432.4500000000001,
-                  "y": -38.13000000000004,
-                  "zoom": 0
-                }
+                "file": "k8s/k8s 水平扩容HPA v1 v2有什么区别？.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Maas网关"
+              "icon": "lucide-file",
+              "title": "k8s 水平扩容HPA v1 v2有什么区别？"
             }
           }
         ]
@@ -210,8 +207,16 @@
   },
   "active": "88d6ac42d4f1b021",
   "lastOpenFiles": [
-    "大模型有价值的问答/maas平台网关设计.md",
+    "k8s/K8s Event如何去重？.md",
+    "k8s/k8s 水平扩容HPA v1 v2有什么区别？.md",
+    "ai_infra/GPU拓扑研究/NUMA pinning + device plugin方案.md",
+    "k8s",
+    "ai_infra/GPU拓扑研究/GPU拓扑导论.md",
+    "ai_infra/GPU拓扑研究/How to Configure Kubernetes Topology-Aware GPU Scheduling.md",
+    "ai_infra/GPU拓扑研究",
     "Maas网关.canvas",
+    "ai_infra",
+    "大模型有价值的问答/maas平台网关设计.md",
     "面试题/maas平台的网关怎么设计？.md",
     "NVIDIA Dynamo.md",
     "面试题/如何用redis实现限流？.md",
@@ -236,15 +241,8 @@
     "杂乱/飞书官方推出OpenClaw插件，免费API限额升至100万次.md",
     "杂乱/预测市场交易员的数学101.md",
     "杂乱/用AI Agent做Polymarket预测市场套利.md",
-    "杂乱/把Openclaw部署到ACP上.md",
-    "杂乱/人体6大激素失衡的真相.md",
-    "杂乱/个人开发者如何用轻量模型集群对抗机构.md",
-    "杂乱/rtk (Rust Token Killer) — 给Claude Code省token的CLI工具.md",
     "算法",
     "杂乱/词源",
-    "杂乱",
-    "跳槽",
-    "网络/iptables",
-    "网络/clash"
+    "杂乱"
   ]
 }
